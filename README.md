@@ -1,2 +1,2 @@
 # channels-react
-An react front-end to the channels website
+A react front-end to the channels website
